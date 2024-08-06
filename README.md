@@ -1,6 +1,9 @@
 ## Backend Development Start | Nest.js
+## Overview
 
-Open "backend" Folder and follow below steps:
+This NestJS project is a robust API application that includes a Movie module for managing movie data and user authentication functionalities. The project utilizes JWT tokens for secure authentication, along with proper error handling and code quality tools.
+
+## Features & Functionality in the project:
 
 - **Image Upload Using AWS**: Implement robust and secure image upload functionality using AWS services.
 - **JWT Token Security**: Ensure secure API access with JWT token authentication, utilizing header and cookie-based strategies.
@@ -8,6 +11,10 @@ Open "backend" Folder and follow below steps:
 - **Prettier Configuration**: Enforce consistent code formatting across the project with Prettier.
 - **Project Structure**: Organize your project using a well-defined folder structure following the latest NestJS conventions.
 - **Comprehensive Error Handling**: Implement common and effective error handling mechanisms throughout the application.
+
+## Getting started
+
+Open "backend" Folder and follow below steps:
 
 1. Install dependencies:
 
