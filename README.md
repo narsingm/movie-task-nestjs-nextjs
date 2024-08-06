@@ -37,8 +37,7 @@ See API doc: [http://localhost:5353/api](http://localhost:5353/api)
 # Frontend | Next.js
 
 ## Overview
-Next.js Movie List Project. Follow the best practices and high development standards for a top-notch project.\
-**[Live URL](http://47.96.153.60:9595/)**
+Next.js Movie List Project. Follow the best practices and high development standards for a top-notch project.
 
 ## Library Used
 - [Next.js](https://nextjs.org/) - v14 (with **Page Directory**)
