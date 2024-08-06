@@ -1,6 +1,6 @@
-## Backend Development Start | Nest.js
-## Overview
+## Backend | Nest.js
 
+## Overview
 This NestJS project is a robust API application that includes a Movie module for managing movie data and user authentication functionalities. The project utilizes JWT tokens for secure authentication, along with proper error handling and code quality tools.
 
 ## Features & Functionality in the project:
@@ -14,7 +14,7 @@ This NestJS project is a robust API application that includes a Movie module for
 
 ## Getting started
 
-Open "backend" Folder and follow below steps:
+To get started with this project, open "backend" Folder and follow below steps:
 
 1. Install dependencies:
 
@@ -34,20 +34,52 @@ Open [http://localhost:5353](http://localhost:5353) with your browser to see the
 
 See API doc: [http://localhost:5353/api](http://localhost:5353/api)
 
-## Frontend Development Start | Next.js
+# Frontend | Next.js
 
-Open "frontend" Folder and follow below steps:
+## Overview
+Next.js Movie List Project. Follow the best practices and high development standards for a top-notch project.\
+**[Live URL](http://47.96.153.60:9595/)**
+
+## Library Used
+- [Next.js](https://nextjs.org/) - v14 (with **Page Directory**)
+- [MUI](https://mui.com/material-ui/) - UI framework
+- [Typescript](https://www.typescriptlang.org/) - Type safety
+- [ESLint](https://eslint.org/) - Linting
+- [Redux Toolkit](https://redux-toolkit.js.org/) - State management
+- [RTK Query](https://redux-toolkit.js.org/) - Api
+- [React Hook Form](https://react-hook-form.com/) - Form handling
+- [Yup](https://github.com/jquense/yup) - Form validation
+- [Moment](https://momentjs.com/) - Date formatting
+
+## Features & Functionality in the project:
+
+- Effortless and robust API caching via RTK Query
+- Next-Generation Image Optimization (all images adapt according to device size)
+- Carefully Optimized Fonts for an enhanced text experience.
+- Smart handling of website themes (managing the entire website theme from a centralized location)
+- Support for multiple environments:  development, and production.
+- An enterprise-level scalable folder structure designed for code elegance.
+- TypeScript integration with robust type checking to prevent errors.
+- Following coding principles like DRY (Don't Repeat Yourself), SRP (Single Responsibility Principle), and SOLID Principles to keep the code clean and organized.
+
+## Getting started
+
+To get started with this project, open "frontend" Folder and follow steps:
 
 1. Install dependencies:
+
 
 ```bash
 npm install
 ```
 
+
 2. Run development server:
+
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:9595](http://localhost:9595) with your browser to see the result.
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
